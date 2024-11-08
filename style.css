@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family:"Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#image{ 
+    border: 10px solid white;
+    Width:100%;
+    /* All I was missing from placing the border around the 
+    image successfully was solid next to white */
+}
+p{
+    color: white;
+    text-align: center;
+}
+#div1{
+    width: 50%;
+    margin-left: 25%;
+
+    /* This is how you center a div element */
+    /* Make sure you make the width of the image 100% */
+}
